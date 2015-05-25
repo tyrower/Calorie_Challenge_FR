@@ -31,5 +31,51 @@ La configuration et incorporation des images se font via le fichier **fooditems.
 
 La structure est : 
 
+`<C2CalorieChallenge>`
+
+`  <challenge>`
+
+`    <food>Jelly Baby</food>`
+
+`    <calories>20</calories>`
+
+`    <time>120</time>`
+
+`    <graphic>images/jbaby/jbaby.jpg</graphic>`
+
+`    <event target="1"   type="image" action="images/jbaby/jbaby1.jpg"></event>`
+
+`    <event target="2"   type="image" action="images/jbaby/jbaby2.jpg"></event>`
+
+`    <event target="3"   type="image" action="images/jbaby/jbaby3.jpg"></event>`
+
+`    <event target="5"   type="image" action="images/jbaby/jbaby4.jpg"></event>`
+
+`    <event target="6"   type="image" action="images/jbaby/jbaby5.jpg"></event>`
+
+`    <event target="7"   type="image" action="images/jbaby/jbaby6.jpg"></event>`
+
+`    <event target="8"   type="image" action="images/jbaby/jbaby7.jpg"></event>`
+
+`    <event target="10"  type="image" action="images/jbaby/jbaby8.jpg"></event>`
+
+`    <event target="11"  type="image" action="images/jbaby/jbaby9.jpg"></event>`
+
+`    <event target="13"  type="image" action="images/jbaby/jbaby10.jpg"></event>`
+
+`    <event target="14"  type="image" action="images/jbaby/jbaby11.jpg"></event>`
+
+`    <event target="15"  type="image" action="images/jbaby/jbaby12.jpg"></event>`
+
+`    <event target="17"  type="image" action="images/jbaby/jbaby13.jpg"></event>`
+
+`    <event target="18"  type="image" action="images/jbaby/jbaby14.jpg"></event>`
+
+`    <event target="20"  type="image" action="images/jbaby/jbaby15.jpg"></event>`
+
+`  </challenge>`
 
 
+`  <challenge>......`
+
+`</C2CalorieChallenge>`
