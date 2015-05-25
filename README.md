@@ -18,5 +18,18 @@ et sont :
 * whileyousetupthegame2.wav -> 5 sec
 
 #Images#
+Les images sont stockées dans les sous-dossiers de :
+> Concept2\C2CalorieChallenge\images
+
+Elles sont de largeur de 1024 pixels (différentes hauteurs) et de format .jpg.
+
+Par défaut les noms des aliments sont : bagel, banana, fries, jbaby, jcake, pizza, salad, sausage.
 
 #Fichier de paramétrage XML#
+La configuration et incorporation des images se font via le fichier **fooditems.xml** qui se trouve directement dans le dossier 
+> Concept2\C2CalorieChallenge
+
+La structure est : 
+
+
+
